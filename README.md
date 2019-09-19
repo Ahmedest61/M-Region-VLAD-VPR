@@ -7,7 +7,7 @@
 3) Synthesized Nordland
 
 
-If you use these datasets, please cite the following publication:
+If you use the datasets/results, please cite the following publication:
 
 ```
 @misc{1909.08153,
@@ -20,7 +20,7 @@ Eprint = {arXiv:1909.08153},
 
 - Each dataset contains two traverses of the same route under different conditions and viewpoint
 	- A "VPR_Results" folder in each dataset contains CSV files of all the evaluated VPR technqiues
-		- All the CSV files have same pattern; each row denotes four paramters i.e. (Test Image number, Retrieved Image number, Score, Matched(1/0)?)
+		- All the CSV files have same pattern; each row contains four paramters i.e. (Test Image number, Retrieved Image number, Score, Matched(1/0)?)
 		- The user needs to use the Score and Matched values for drawing the PR-curves
 
 - Another "Vocabulary" folder contains N=300 and V=128 clustered regional dictionary trained using 3K images for VLAD retrieval.
