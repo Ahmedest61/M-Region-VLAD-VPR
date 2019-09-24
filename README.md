@@ -10,11 +10,11 @@
 If you use the datasets/results, please cite the following publication:
 
 ```
-@misc{1909.08153,
-Author = {Ahmad Khaliq and Shoaib Ehsan and Michael Milford and Klaus McDonald-Maier},
-Title = {CAMAL: Context-Aware Multi-scale Attention framework for Lightweight Visual Place Recognition},
-Year = {2019},
-Eprint = {arXiv:1909.08153},
+@article{khaliq2019camal,
+  title={CAMAL: Context-Aware Multi-scale Attention framework for Lightweight Visual Place Recognition},
+  author={Khaliq, Ahmad and Ehsan, Shoaib and Milford, Michael and McDonald-Maier, Klaus},
+  journal={arXiv preprint arXiv:1909.08153},
+  year={2019}
 }
 ```
 
